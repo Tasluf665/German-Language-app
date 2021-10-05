@@ -1,0 +1,58 @@
+export const DetailsWord = [
+   {
+      id: "0",
+      Details_Meaning: "Answer, Reply, Respond",
+      Präsens: [
+         "ich antworte",
+         "du antwortest",
+         "er/sie/es antwortet",
+         "wir antworten",
+         "ihr antwortet",
+         "Sie antworten",
+      ],
+      Präteritum: [
+         "ich antwortete",
+         "du antwortetest",
+         "er/sie/es antwortete",
+         "wir antworteten",
+         "ihr antwortetet",
+         "Sie antworteten",
+      ],
+      Futur_I: [
+         "ich werde antworten",
+         "du wirst antworten",
+         "er wird antworten",
+         "wir werden antworten",
+         "ihr werdet antworten",
+         "Sie werden antworten",
+      ],
+   },
+   {
+      id: "1",
+      Details_Meaning: "work, operate, collaborate",
+      Präsens: [
+         "ich arbeite",
+         "du arbeitest",
+         "er/sie/es arbeitet",
+         "wir arbeiten",
+         "ihr arbeitet",
+         "Sie arbeiten",
+      ],
+      Präteritum: [
+         "ich arbeitete",
+         "du arbeitetest",
+         "er/sie/es arbeitete",
+         "wir arbeiteten",
+         "ihr arbeitetet",
+         "Sie arbeiteten",
+      ],
+      Futur_I: [
+         "ich werde arbeiten",
+         "du wirst arbeiten",
+         "er/sie/es wird arbeiten",
+         "wir werden arbeiten",
+         "ihr werdet arbeiten",
+         "Sie werden arbeiten",
+      ],
+   },
+];
